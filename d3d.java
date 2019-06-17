@@ -3,7 +3,7 @@ class d3d
 	//main method, arguments may be passed on commandline execution
 	public static void main(String args[])
 	{
-		// declare and initiale 3D array
+		// declare and initialize 3D array
 		int arr[][][] = {
 						{ {0,4,2},{1,6,1},{5,4,2} },
 						{ {3,7,9},{9,6,2},{0,1,3} },
