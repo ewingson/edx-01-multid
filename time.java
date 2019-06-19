@@ -21,7 +21,7 @@ class time
 									{ {2,8,5},{3,7,7},{4,5,8} }
 								}
 							};
-		// print 4d (time) array in four nested for-loops
+		// print 4D (time) array in four nested for-loops
 		for (int l = 0; l<3; l++)		
 		{	
 			//print 3D-element number
